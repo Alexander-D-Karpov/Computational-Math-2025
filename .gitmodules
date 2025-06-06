@@ -1,0 +1,4 @@
+[submodule "Р3213/Карпов"]
+	path = Р3213/Карпов
+	url = git@github.com:Alexander-D-Karpov/calcMat.git
+	branch = master
